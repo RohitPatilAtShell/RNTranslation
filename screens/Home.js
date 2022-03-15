@@ -3,32 +3,34 @@ import {ScrollView, StyleSheet, View} from 'react-native';
 import {Text} from 'react-native-elements';
 import {useSafeArea} from 'react-native-safe-area-context';
 import {Tile} from '../components/Tile';
-import {LocalizationContext} from '../components/Translations';
+import { Translate, withTranslation } from '@sede-x/translation';
+
+type Props = {
+  t: Translate;
+  };
 
 export const Home = () => {
-  const {translations, initializeAppLanguage} = useContext(LocalizationContext);
   const [total, changeTotal] = useState(0);
   const insets = useSafeArea();
-  initializeAppLanguage();
 
   const fruits = [
     {
-      name: translations['fruit.apple'],
+      name: Translate['fruit.apple'],
       price:
-        translations['app.currency'] + translations['fruit.apple.price.value'],
+        Translate['app.currency'] + Translate['fruit.apple.price.value'],
       pic: require('../assets/apple.png'),
     },
     {
-      name: translations['fruit.banana'],
+      name: Translate['fruit.banana'],
       price:
-        translations['app.currency'] + translations['fruit.banana.price.value'],
+      Translate['app.currency'] + Translate['fruit.banana.price.value'],
       pic: require('../assets/banana.png'),
     },
     {
-      name: translations['fruit.watermelon'],
+      name: Translate['fruit.watermelon'],
       price:
-        translations['app.currency'] +
-        translations['fruit.watermelon.price.value'],
+      Translate['app.currency'] +
+      Translate['fruit.watermelon.price.value'],
       pic: require('../assets/watermelon.png'),
     },
   ];
@@ -49,10 +51,10 @@ export const Home = () => {
           {paddingTop: insets.top, paddingBottom: insets.bottom},
         ]}>
         <Text h1 h1Style={styles.grocery}>
-          {translations['shop.title']}
+          {Translate['shop.title']}
         </Text>
         <Text style={styles.date}>
-          {translations['date.title']}: {translations['date.format']}
+          {Translate['date.title']}: {Translate['date.format']}
         </Text>
         {fruits.map(fruit => {
           return (
@@ -66,11 +68,11 @@ export const Home = () => {
           );
         })}
         <Text h3 h3Style={styles.total}>
-          {translations['cart.total.title']}:
-          {translations.formatString(
-            translations['cart.total.value.currencyStart'],
+          {Translate['cart.total.title']}:
+          {Translate.formatString(
+            Translate['cart.total.value.currencyStart'],
             {
-              currencyStart: translations['app.currency'],
+              currencyStart: Translate['app.currency'],
               value: total,
             },
           )}
