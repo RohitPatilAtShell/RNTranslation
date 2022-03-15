@@ -4,11 +4,14 @@ import LocalizedStrings from 'react-native-localization';
 import * as RNLocalize from 'react-native-localize';
 import en from '../localization/en.json';
 import ru from '../localization/ru.json';
+import ar from '../localization/ar.json';
+import hi from '../localization/hi.json';
+import mr from '../localization/mr.json';
 
 const DEFAULT_LANGUAGE = 'en';
 const APP_LANGUAGE = 'appLanguage';
 
-const languages = {en, ru};
+const languages = {en, ru, ar, hi, mr};
 
 const translations = new LocalizedStrings(languages);
 

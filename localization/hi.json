@@ -1,0 +1,21 @@
+{
+    "added.items.endingWithOne": "{no} आइटम जोड़े गए",
+    "added.items.endingWithOther": "{no} आइटम जोड़े गए",
+    "added.items.endingWithTwoToFour": "{no} आइटम जोड़े गए",
+    "added.items.endingWithZero": "{no} आइटम जोड़े गए",
+    "added.items.one": "{no} आइटम जोड़े गए",
+    "app.currency": "$",
+    "cart.total.title": "कुल योग",
+    "cart.total.value.currencyEnd": "{value}{currencyEnd}",
+    "cart.total.value.currencyStart": "{currencyStart}{value}",
+    "date.format": "21\/11\/2019",
+    "date.title": "आज की तारीख",
+    "fruit.apple": "सेब",
+    "fruit.apple.price.value": "3",
+    "fruit.banana": "केला",
+    "fruit.banana.price.value": "2",
+    "fruit.watermelon": "तरबूज",
+    "fruit.watermelon.price.value": "5",
+    "settings.change_language": "भाषा बदलें",
+    "shop.title": "किराने की दुकान"
+}
