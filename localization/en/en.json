@@ -17,5 +17,6 @@
   "cart.total.title": "Total Sum",
   "cart.total.value.currencyStart": "{currencyStart}{value}",
   "cart.total.value.currencyEnd": "{value}{currencyEnd}",
-  "settings.change_language": "Change Language"
+  "settings.change_language": "Change Language",
+  "test.testAutoCommit": "This is the testing for auto commit",
 }
