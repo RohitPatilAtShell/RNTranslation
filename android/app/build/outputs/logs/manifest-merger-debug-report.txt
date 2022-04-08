@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localization] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/edd482658e7276846ba0c77cfc517464/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/f115d048b4ff8555ed08083cdca3cf34/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2cc74b162a3446afa701ebccad383cae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2f7186e587435d93ddc7d03373e2b8ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/d54ada0ae2cb3f0d78910a24e993b7ab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/1424e1f416cc973a41b8c80996676efa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8a24fa3027a5acfb2ef704b01547bd2f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eeacb2626c900984224cace3be9a9e1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/b9dcb6912a18a803823123ed51ef402a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/7119f3d41c90b7046f318f9e179db233/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/9da742f2057d3ca9eea52565a83e0065/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2575a7a20acc18f57cf8ce28ea9e2ae4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/17ad28f5d149b2e97481487ae74e8c03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/321edc6d2277df8f3cb5579988f1f785/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/e482fc87683c1bd3c280796aca8d6813/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/775126523a18a100f6d03a876247b1d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eb2d5c443cb013efc11dea8b611d66d1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2ceece588a201007b263d743103606c7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/57dfcaf6c91e6e687f3c97b5658333bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/37b09c53958f0ca356d0317e1a92656f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6837fb958b6a8d73505e284a7c3e8119/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2e83e5dc7c19b21b5da3bb7dea989d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/05dbae3337803a98c903da5b35b2329e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6c6ce6cffa8dd19b30a3d400320d68db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2904e4b6592a4240960e4b1526e09abf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/28bb6c0fb57e72864038327fe86dd183/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/ca2fc0d3fa6df9b3a61232d96d1b8cf9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/c11a5fbac2c779e1bc6f59c6a855685d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2eab65d76499fafd7d552c86e98f9683/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/af4b8f536c595e93eb98b11fd9e0eb52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/4ec23d7f1d297d42fc1c059803356b1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8e135b7f811d0d748176ff6427bb82dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3fb1eb6103ecaec5118554e91ff961ec/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/29da0759b664f8d1edc6257b028ecf80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/627167e115448a764b26b8e94a435c76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/123b86473c9c8ac3fa64e30598095ef1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/25bd1d02a25703e12c8bd1474ca79091/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/a76f6733a7c9385c5e416322884c75c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/bbb58f2b7d8a6bc2f7cc30c9d4274f93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3b421eb7985e131dfdd37bc0cf0e45f3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/65d79e40080464f8060b2fe60a778af9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/602b603170ae0c982b1e57545144469c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/07e7c1bced4797965c883ea37876fa65/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/edd482658e7276846ba0c77cfc517464/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/edd482658e7276846ba0c77cfc517464/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2cc74b162a3446afa701ebccad383cae/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2cc74b162a3446afa701ebccad383cae/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2575a7a20acc18f57cf8ce28ea9e2ae4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2575a7a20acc18f57cf8ce28ea9e2ae4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3fb1eb6103ecaec5118554e91ff961ec/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3fb1eb6103ecaec5118554e91ff961ec/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.translaternapp.MainActivity
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/edd482658e7276846ba0c77cfc517464/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/edd482658e7276846ba0c77cfc517464/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/f115d048b4ff8555ed08083cdca3cf34/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/f115d048b4ff8555ed08083cdca3cf34/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2cc74b162a3446afa701ebccad383cae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2cc74b162a3446afa701ebccad383cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2f7186e587435d93ddc7d03373e2b8ef/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2f7186e587435d93ddc7d03373e2b8ef/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/d54ada0ae2cb3f0d78910a24e993b7ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/d54ada0ae2cb3f0d78910a24e993b7ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/1424e1f416cc973a41b8c80996676efa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/1424e1f416cc973a41b8c80996676efa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8a24fa3027a5acfb2ef704b01547bd2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8a24fa3027a5acfb2ef704b01547bd2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eeacb2626c900984224cace3be9a9e1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eeacb2626c900984224cace3be9a9e1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/b9dcb6912a18a803823123ed51ef402a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/b9dcb6912a18a803823123ed51ef402a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/7119f3d41c90b7046f318f9e179db233/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/7119f3d41c90b7046f318f9e179db233/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/9da742f2057d3ca9eea52565a83e0065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/9da742f2057d3ca9eea52565a83e0065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2575a7a20acc18f57cf8ce28ea9e2ae4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2575a7a20acc18f57cf8ce28ea9e2ae4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/17ad28f5d149b2e97481487ae74e8c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/17ad28f5d149b2e97481487ae74e8c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/321edc6d2277df8f3cb5579988f1f785/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/321edc6d2277df8f3cb5579988f1f785/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/e482fc87683c1bd3c280796aca8d6813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/e482fc87683c1bd3c280796aca8d6813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/775126523a18a100f6d03a876247b1d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/775126523a18a100f6d03a876247b1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eb2d5c443cb013efc11dea8b611d66d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/eb2d5c443cb013efc11dea8b611d66d1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2ceece588a201007b263d743103606c7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2ceece588a201007b263d743103606c7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/57dfcaf6c91e6e687f3c97b5658333bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/57dfcaf6c91e6e687f3c97b5658333bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/37b09c53958f0ca356d0317e1a92656f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/37b09c53958f0ca356d0317e1a92656f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6837fb958b6a8d73505e284a7c3e8119/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6837fb958b6a8d73505e284a7c3e8119/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2e83e5dc7c19b21b5da3bb7dea989d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2e83e5dc7c19b21b5da3bb7dea989d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/05dbae3337803a98c903da5b35b2329e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/05dbae3337803a98c903da5b35b2329e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6c6ce6cffa8dd19b30a3d400320d68db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/6c6ce6cffa8dd19b30a3d400320d68db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2904e4b6592a4240960e4b1526e09abf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2904e4b6592a4240960e4b1526e09abf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/28bb6c0fb57e72864038327fe86dd183/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/28bb6c0fb57e72864038327fe86dd183/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/ca2fc0d3fa6df9b3a61232d96d1b8cf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/ca2fc0d3fa6df9b3a61232d96d1b8cf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/c11a5fbac2c779e1bc6f59c6a855685d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/c11a5fbac2c779e1bc6f59c6a855685d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2eab65d76499fafd7d552c86e98f9683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/2eab65d76499fafd7d552c86e98f9683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/af4b8f536c595e93eb98b11fd9e0eb52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/af4b8f536c595e93eb98b11fd9e0eb52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/51b474146faff38544a542e3760f70af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/4ec23d7f1d297d42fc1c059803356b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/4ec23d7f1d297d42fc1c059803356b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8e135b7f811d0d748176ff6427bb82dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/8e135b7f811d0d748176ff6427bb82dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3fb1eb6103ecaec5118554e91ff961ec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3fb1eb6103ecaec5118554e91ff961ec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/29da0759b664f8d1edc6257b028ecf80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/29da0759b664f8d1edc6257b028ecf80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/627167e115448a764b26b8e94a435c76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/627167e115448a764b26b8e94a435c76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/123b86473c9c8ac3fa64e30598095ef1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/123b86473c9c8ac3fa64e30598095ef1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/25bd1d02a25703e12c8bd1474ca79091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/25bd1d02a25703e12c8bd1474ca79091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/a76f6733a7c9385c5e416322884c75c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/a76f6733a7c9385c5e416322884c75c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/bbb58f2b7d8a6bc2f7cc30c9d4274f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/bbb58f2b7d8a6bc2f7cc30c9d4274f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3b421eb7985e131dfdd37bc0cf0e45f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/3b421eb7985e131dfdd37bc0cf0e45f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/65d79e40080464f8060b2fe60a778af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/65d79e40080464f8060b2fe60a778af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/602b603170ae0c982b1e57545144469c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/602b603170ae0c982b1e57545144469c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/07e7c1bced4797965c883ea37876fa65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/r-s.patil/.gradle/caches/transforms-2/files-2.1/07e7c1bced4797965c883ea37876fa65/AndroidManifest.xml:20:5-44
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/src/debug/AndroidManifest.xml:5:22-75

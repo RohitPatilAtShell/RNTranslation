@@ -1,0 +1,4 @@
+#Wed Apr 06 14:14:14 IST 2022
+base.0=/Users/r-s.patil/Documents/RNCode/Tests/Translation/Github Private/RNTranslation/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
