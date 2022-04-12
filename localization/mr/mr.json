@@ -1,0 +1,21 @@
+{
+    "added.items.endingWithOne": "जोडले {no} घटक",
+    "added.items.endingWithOther": "जोडले {no} घटक",
+    "added.items.endingWithTwoToFour": "जोडले {no} घटक",
+    "added.items.endingWithZero": "जोडले {no} घटक",
+    "added.items.one": "जोडले {no} घटक",
+    "app.currency": "$",
+    "cart.total.title": "एकूण बेरीज",
+    "cart.total.value.currencyEnd": "{value}{currencyEnd}",
+    "cart.total.value.currencyStart": "{currencyStart}{value}",
+    "date.format": "21\/11\/2019",
+    "date.title": "आजची तारीख",
+    "fruit.apple": "सफरचंद",
+    "fruit.apple.price.value": "3",
+    "fruit.banana": "केळे",
+    "fruit.banana.price.value": "2",
+    "fruit.watermelon": "कलिंगड",
+    "fruit.watermelon.price.value": "5",
+    "settings.change_language": "भाषा बदला",
+    "shop.title": "किराणा दुकान"
+}
