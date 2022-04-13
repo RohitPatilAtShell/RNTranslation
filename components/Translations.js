@@ -1,5 +1,5 @@
 import AsyncStorage from '@react-native-community/async-storage';
-import React, {createContext, useState} from 'react';
+import React, {createContext, useState, useEffect} from 'react';
 import LocalizedStrings from 'react-native-localization';
 import * as RNLocalize from 'react-native-localize';
 import en from '../localization/en.json';
@@ -11,7 +11,6 @@ import mr from '../localization/mr.json';
 const DEFAULT_LANGUAGE = 'en';
 const APP_LANGUAGE = 'appLanguage';
 
-// const languages = {en, ru};
 const languages = {en, ru, ar, hi, mr};
 
 const translations = new LocalizedStrings(languages);
@@ -25,6 +24,16 @@ export const LocalizationContext = createContext({
 
 export const LocalizationProvider = ({children}) => {
   const [appLanguage, setAppLanguage] = useState(DEFAULT_LANGUAGE);
+  // const [appData, setAppData] = useState([]);
+  // const [isLoading, setLoading] = useState(true);
+
+  // useEffect(() => {
+  //   fetchAppConfigData().then(data => {
+  //     console.log('setting app data is : ', data);
+  //     setAppData(data); //sets the app settings data
+  //     setLoading(false); //stop loading when data is set
+  //   });
+  // }, []);
 
   const setLanguage = language => {
     translations.setLanguage(language);
@@ -65,3 +74,13 @@ export const LocalizationProvider = ({children}) => {
     </LocalizationContext.Provider>
   );
 };
+
+// fetching app settings
+// const fetchAppConfigData = async () => {
+//   const res = await fetch(
+//     'https://rohitpatilatshell.github.io/RNTranslation/localization/appSettings.json',
+//   );
+//   const json = await res.json();
+//   console.log('fetched app settings data is : ', json);
+//   return json;
+// };
