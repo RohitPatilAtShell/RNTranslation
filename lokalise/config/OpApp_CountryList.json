@@ -1,0 +1,159 @@
+{
+    "countryList": [
+    	{
+            "countryName": "Argentina",
+            "countryCode": "AR",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Austria",
+            "countryCode": "AT",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Belgium",
+            "countryCode": "BE",
+            "isNewMarketPlace": true
+        },
+        {
+            "countryName": "Bulgaria",
+            "countryCode": "BG",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Canada",
+            "countryCode": "CA",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "CzechRepublic",
+            "countryCode": "CZ",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Denmark",
+            "countryCode": "DK",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "France",
+            "countryCode": "FR",
+            "isNewMarketPlace": true
+        },
+        {
+            "countryName": "Germany",
+            "countryCode": "DE",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Hungary",
+            "countryCode": "HU",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "HongKong",
+            "countryCode": "HK",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Indonesia",
+            "countryCode": "ID",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "India",
+            "countryCode": "IN",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Luxembourg",
+            "countryCode": "LU",
+            "isNewMarketPlace": true
+        },
+        {
+            "countryName": "Macau",
+            "countryCode": "MO",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Malaysia (MY",
+            "countryCode": "CA",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Netherlands",
+            "countryCode": "NL",
+            "isNewMarketPlace": true
+        },
+        {
+            "countryName": "Norway",
+            "countryCode": "NOR",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Oman",
+            "countryCode": "OM",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Pakistan",
+            "countryCode": "PK",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Philippines",
+            "countryCode": "PH",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Poland",
+            "countryCode": "PL",
+            "isNewMarketPlace": true
+        },
+        {
+            "countryName": "Russia",
+            "countryCode": "RU",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "SouthAfrica",
+            "countryCode": "ZA",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Switzerland",
+            "countryCode": "CH",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Slovakia",
+            "countryCode": "SK",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Singapore",
+            "countryCode": "SG",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Thailand",
+            "countryCode": "TH",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "Turkey",
+            "countryCode": "TR",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "UnitedKingdom",
+            "countryCode": "UK",
+            "isNewMarketPlace": false
+        },
+        {
+            "countryName": "UnitedStatesOfAmerica",
+            "countryCode": "USA",
+            "isNewMarketPlace": false
+        }
+    ]
+}
