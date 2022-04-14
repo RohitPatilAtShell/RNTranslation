@@ -13,7 +13,7 @@
       "android": "https://play.google.com/store/apps/details?id=com.shell.sitibv.retailsitemanager"
     },
     "HSSE": { "hsse_homepage_days": "90", "hsse_comp_days": "2" },
-    "Login": "/rsma/RSMAv4.2/GlobalConfigFiles/OpApp_Login.json",
+    "Login": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/config/OpApp_Login.json",
     "countries": [
       {
         "code": "NL",
@@ -24,113 +24,113 @@
             "name": "Dutch",
             "iOS": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/translation_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/translation_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/translation_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/translation_Netherlands_NL_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/GSD/gsd_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/GSD/gsd_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/GSD/gsd_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/GSD/gsd_Netherlands_NL_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/CF/cf_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/CF/cf_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/CF/cf_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/CF/cf_Netherlands_NL_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/abt_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/abt_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/abt_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/abt_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/con_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/con_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/con_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/con_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/faq_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/faq_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/faq_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/faq_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/pp_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/pp_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/pp_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/pp_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/sit_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/sit_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/sit_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/sit_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/ts_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/ts_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/ts_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/ts_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/tc_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/tc_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/tc_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/tc_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/web_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/web_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/web_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/web_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/glossary_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/glossary_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/glossary_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/glossary_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/iOS/sra_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/iOS/sra_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/iOS/sra_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/iOS/sra_Netherlands_NL_timestamp.json"
                 }
               ]
             },
             "android": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/translation_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/translation_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/translation_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/translation_Netherlands_NL_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/GSD/gsd_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/GSD/gsd_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/GSD/gsd_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/GSD/gsd_Netherlands_NL_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/CF/cf_Netherlands_NL.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/CF/cf_Netherlands_NL_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/CF/cf_Netherlands_NL.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/CF/cf_Netherlands_NL_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/abt_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/abt_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/abt_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/abt_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/con_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/con_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/con_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/con_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/faq_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/faq_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/faq_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/faq_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/pp_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/pp_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/pp_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/pp_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/sit_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/sit_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/sit_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/sit_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/ts_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/ts_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/ts_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/ts_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/tc_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/tc_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/tc_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/tc_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/web_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/web_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/web_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/web_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/glossary_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/glossary_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/glossary_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/glossary_Netherlands_NL_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/android/sra_Netherlands_NL.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Netherlands/NL/Help/android/sra_Netherlands_NL_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/android/sra_Netherlands_NL.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Netherlands/NL/Help/android/sra_Netherlands_NL_timestamp.json"
                 }
               ]
             }
@@ -146,113 +146,113 @@
             "name": "Dutch",
             "iOS": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/translation_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/translation_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/translation_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/translation_Belgium_DU_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/GSD/gsd_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/GSD/gsd_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/GSD/gsd_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/GSD/gsd_Belgium_DU_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/CF/cf_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/CF/cf_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/CF/cf_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/CF/cf_Belgium_DU_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/abt_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/abt_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/abt_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/abt_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/con_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/con_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/con_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/con_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/faq_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/faq_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/faq_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/faq_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/pp_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/pp_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/pp_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/pp_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/sit_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/sit_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/sit_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/sit_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/ts_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/ts_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/ts_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/ts_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/tc_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/tc_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/tc_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/tc_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/web_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/web_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/web_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/web_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/glossary_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/glossary_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/glossary_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/glossary_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/iOS/sra_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/iOS/sra_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/iOS/sra_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/iOS/sra_Belgium_DU_timestamp.json"
                 }
               ]
             },
             "android": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/translation_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/translation_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/translation_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/translation_Belgium_DU_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/GSD/gsd_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/GSD/gsd_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/GSD/gsd_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/GSD/gsd_Belgium_DU_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/CF/cf_Belgium_DU.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/CF/cf_Belgium_DU_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/CF/cf_Belgium_DU.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/CF/cf_Belgium_DU_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/abt_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/abt_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/abt_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/abt_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/con_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/con_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/con_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/con_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/faq_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/faq_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/faq_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/faq_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/pp_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/pp_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/pp_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/pp_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/sit_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/sit_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/sit_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/sit_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/ts_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/ts_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/ts_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/ts_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/tc_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/tc_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/tc_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/tc_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/web_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/web_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/web_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/web_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/glossary_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/glossary_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/glossary_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/glossary_Belgium_DU_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/android/sra_Belgium_DU.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Belgium/DU/Help/android/sra_Belgium_DU_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/android/sra_Belgium_DU.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Belgium/DU/Help/android/sra_Belgium_DU_timestamp.json"
                 }
               ]
             }
@@ -384,113 +384,113 @@
             "name": "English",
             "iOS": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/translation_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/translation_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/con_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/web_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/iOS/sra_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/iOS/sra_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/iOS/sra_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/iOS/sra_UnitedKingdom_EN_timestamp.json"
                 }
               ]
             },
             "android": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/translation_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/translation_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/con_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/web_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/android/sra_UnitedKingdom_EN.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/UnitedKingdom/EN/Help/android/sra_UnitedKingdom_EN_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/android/sra_UnitedKingdom_EN.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/UnitedKingdom/EN/Help/android/sra_UnitedKingdom_EN_timestamp.json"
                 }
               ]
             }
@@ -2800,113 +2800,113 @@
             "name": "Urdu",
             "iOS": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/translation_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/translation_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/translation_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/translation_Pakistan_UR_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/GSD/gsd_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/GSD/gsd_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/GSD/gsd_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/GSD/gsd_Pakistan_UR_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/CF/cf_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/CF/cf_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/CF/cf_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/CF/cf_Pakistan_UR_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/abt_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/abt_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/abt_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/abt_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/con_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/con_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/con_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/con_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/faq_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/faq_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/faq_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/faq_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/pp_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/pp_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/pp_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/pp_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/sit_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/sit_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/sit_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/sit_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/ts_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/ts_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/ts_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/ts_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/tc_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/tc_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/tc_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/tc_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/web_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/web_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/web_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/web_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/glossary_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/glossary_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/glossary_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/glossary_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/iOS/sra_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/iOS/sra_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/iOS/sra_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/iOS/sra_Pakistan_UR_timestamp.json"
                 }
               ]
             },
             "android": {
               "translation": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/translation_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/translation_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/translation_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/translation_Pakistan_UR_timestamp.json"
               },
               "GSD": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/GSD/gsd_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/GSD/gsd_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/GSD/gsd_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/GSD/gsd_Pakistan_UR_timestamp.json"
               },
               "CF": {
-                "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/CF/cf_Pakistan_UR.json",
-                "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/CF/cf_Pakistan_UR_timestamp.json"
+                "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/CF/cf_Pakistan_UR.json",
+                "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/CF/cf_Pakistan_UR_timestamp.json"
               },
               "Help": [
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/abt_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/abt_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/abt_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/abt_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/con_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/con_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/con_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/con_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/faq_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/faq_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/faq_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/faq_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/pp_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/pp_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/pp_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/pp_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/sit_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/sit_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/sit_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/sit_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/ts_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/ts_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/ts_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/ts_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/tc_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/tc_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/tc_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/tc_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/web_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/web_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/web_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/web_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/glossary_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/glossary_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/glossary_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/glossary_Pakistan_UR_timestamp.json"
                 },
                 {
-                  "src": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/android/sra_Pakistan_UR.json",
-                  "src_timestamp": "/rsma/RSMAv4.2/Countries/Pakistan/UR/Help/android/sra_Pakistan_UR_timestamp.json"
+                  "src": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/android/sra_Pakistan_UR.json",
+                  "src_timestamp": "https://rohitpatilatshell.github.io/RNTranslation/lokalise/strings/Pakistan/UR/Help/android/sra_Pakistan_UR_timestamp.json"
                 }
               ]
             }
