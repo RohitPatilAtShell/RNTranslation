@@ -2,6 +2,7 @@ import React, {useContext, useEffect, useState} from 'react';
 import {StyleSheet, View, ActivityIndicator} from 'react-native';
 import {ListItem, Text} from 'react-native-elements';
 import {useSafeArea} from 'react-native-safe-area-context';
+import {useSelector} from 'react-redux';
 import {LocalizationContext} from '../components/Translations';
 
 const fetchAppConfigData = async () => {
@@ -26,6 +27,8 @@ const fetchData = async () => {
 export const Settings = () => {
   const [appData, setAppData] = useState([]);
   const [isLoading, setLoading] = useState(true);
+  const localizationData = useSelector(state => state.localizationReducer);
+  const {appTranslationData} = localizationData;
 
   useEffect(() => {
     fetchAppConfigData().then(data => {
@@ -55,6 +58,13 @@ export const Settings = () => {
     <View style={[styles.container, {paddingTop: insets.top}]}>
       <Text h4 h4Style={styles.language}>
         {translations['settings.change_language']}
+      </Text>
+
+      <Text h4 h4Style={styles.language}>
+        {appTranslationData.translationData.Menu['About_this_app?']}
+      </Text>
+      <Text h4 h4Style={styles.language}>
+        {appTranslationData.translationData.Others['201']}
       </Text>
       {translations.getAvailableLanguages().map((currentLang, i) => (
         <ListItem

@@ -16,6 +16,7 @@
     "@react-navigation/core": "^5.0.0-alpha.24",
     "@react-navigation/native": "^5.0.0-alpha.16",
     "@react-navigation/stack": "^5.0.0-alpha.37",
+    "axios": "0.26.1",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-elements": "^1.2.7",
@@ -25,7 +26,13 @@
     "react-native-reanimated": "^1.4.0",
     "react-native-safe-area-context": "^0.6.0",
     "react-native-screens": "^2.0.0-alpha.11",
-    "react-native-vector-icons": "^6.6.0"
+    "react-native-vector-icons": "^6.6.0",
+    "react-redux": "7.2.6",
+    "redux": "4.1.2",
+    "redux-logger": "3.0.6",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.4.1",
+    "react-native-modal-dropdown": "1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
