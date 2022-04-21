@@ -110,7 +110,9 @@ export const Main = () => {
 
   useEffect(() => {
     /**
-     * Uncomment this isFocused code from everywhere
+     * Uncomment this isFocused code from everywhere: isFocused will check if you are on same screen or not if yes then execute this code
+     * If this is not added then on every screen when we call the api this will be executed which leads
+     * to multiple popups or unexpected behavior
      */
     // if (isFocused) {
     if (countriesListData.isSuccess) {
@@ -132,7 +134,7 @@ export const Main = () => {
     ) {
       Alert.alert(
         'Error',
-        'Failed to download the files. Please try again later',
+        'An error occured while trying yo load data, please try again later',
         {
           text: 'OK',
           onPress: () => {
