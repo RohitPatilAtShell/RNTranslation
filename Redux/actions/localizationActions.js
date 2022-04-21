@@ -80,6 +80,8 @@ export const fetchTranslations = (langObj, selectedLang) => {
   return async dispatch => {
     try {
       dispatch(fetchTranslationProgress());
+      // check the network connection: if connected then call the api otherwise disptach the failure action with no internet message
+      // You can check from the ActionDispatcher file in RSMA app
       let helpResponseArray = [];
       langObj.Help.map(async item => {
         try {
