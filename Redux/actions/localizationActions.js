@@ -88,11 +88,7 @@ export const fetchTranslations = (langObj, selectedLang) => {
           const helpResponse = await axios.get(item.src);
           return helpResponseArray.push(helpResponse.data);
         } catch (error) {
-          const errorObj = {
-            status: '400',
-            message: 'Unable to download translations. Please try again later',
-          };
-          dispatch(fetchTranslationFailure(errorObj));
+          console.log('error', error);
           return;
         }
       });
