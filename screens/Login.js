@@ -93,9 +93,16 @@ export const Login = () => {
         <DropdownComponent
           data={globalCountries}
           selectItemHandle={(_index, option) => {
+            /* Set the selected language in local state and reducer */
             setLanguage(option);
             dispatch(setSelectedCountryLanguage(option));
+            /* Update the language of login translation to the selected language to display on the screen before any api call is made */
             loginTranslationData.setLanguage(option.countryLanguage);
+
+            /* Check if translation file for selected language already there in reducer
+             * If yes, then the data will be fetched from reducer and translations.setLanguage will update the localization language
+             * If no, then translation api will be called
+             */
             const traslationExist = translationPayload.some(trans => {
               if (trans[option.countryLanguage] !== undefined) {
                 return true;

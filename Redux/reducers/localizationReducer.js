@@ -2,6 +2,12 @@ import * as ActionTypes from '../actionConstants/localizationActionTypes';
 
 const DEFAULT_LANG_COUNTRY_CODE = 'UK';
 
+/*
+ * globalPayload: Stores the complete response that we get from the global json api
+ * globalCountries: Stored the list of countries  with the translation urls that we get from the global json api
+ * loginDataUrl: Stores the login url
+ * defaultLangData: Stores the default Country data i.e UK
+ */
 const GLOBAL_JSON_DATA = {
   isSuccess: false,
   isError: false,
@@ -14,6 +20,9 @@ const GLOBAL_JSON_DATA = {
   loginDataUrl: '',
   defaultLangData: undefined,
 };
+/**
+ * countriesListPayload: Stores the countries list data
+ */
 const COUNTRIES_JSON_DATA = {
   isSuccess: false,
   isError: false,
@@ -23,7 +32,9 @@ const COUNTRIES_JSON_DATA = {
   message: '',
   errorData: undefined,
 };
-
+/**
+ * loginJsonPayload: Stores the login translation data received from login json api
+ */
 const LOGIN_JSON_DATA = {
   isSuccess: false,
   isError: false,
@@ -34,6 +45,17 @@ const LOGIN_JSON_DATA = {
   errorData: undefined,
 };
 
+/*
+ * translationPayload: Stores the translations for the selected countries in the below form
+* [
+  {UnitedKingdom EN: {
+    translationData: {},
+    helpData: [],
+    feedbackData: {},
+     gsdData: {}
+  }},
+   ]
+ */
 const TRANSLATION_DATA = {
   isSuccess: false,
   isError: false,
@@ -55,6 +77,7 @@ const INITIAL_STATE = {
   appTranslationData: undefined,
 };
 
+/* Converts into array of objects */
 const getFormattedCountriesData = countryList => {
   let updatedCountryList = [];
   countryList.forEach(country => {

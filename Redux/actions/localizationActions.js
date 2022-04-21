@@ -3,6 +3,7 @@ import ActionDispatcher from '../reduxUtils/ActionDispatcher';
 import * as service from '../services/localizationService';
 const axios = require('axios');
 
+/* Global json api action */
 export const getGlobalJson = () => {
   return ActionDispatcher(
     service.getGlobalJsonService,
@@ -15,6 +16,7 @@ export const clearGlobalConfigApiData = () => ({
   type: ActionTypes.CLEAR_GLOBAL_CONFIG_API_DATA,
 });
 
+/* login json api action */
 export const getLoginLocalizationData = url => {
   return ActionDispatcher(
     service.loginLocalizationDataService.bind(null, url),
@@ -27,6 +29,7 @@ export const clearLoginConfigApiData = () => ({
   type: ActionTypes.CLEAR_LOGIN_CONFIG_API_DATA,
 });
 
+/* country list api action */
 export const getCountriesListData = () => {
   return ActionDispatcher(
     service.getCountriesListService,
@@ -40,16 +43,19 @@ export const clearCountriesListApiData = () => ({
   type: ActionTypes.CLEAR_COUNTRIES_LIST_API_DATA,
 });
 
+/* For setting the selected country data */
 export const setSelectedCountry = selectedCountryData => ({
   type: ActionTypes.SET_SELECTED_COUNTRY,
   selectedCountryData,
 });
 
+/* For setting the selected language data */
 export const setSelectedCountryLanguage = selectedLang => ({
   type: ActionTypes.SET_SELECTED_COUNTRY_LANGUAGE,
   selectedLang,
 });
 
+/* Translation api actions */
 const fetchTranslationSuccess = data => ({
   type: ActionTypes.FETCH_TRANSLATION_SUCCESS,
   payload: data,

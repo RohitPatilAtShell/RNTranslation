@@ -61,6 +61,9 @@ export const Settings = () => {
       </Text>
 
       <Text h4 h4Style={styles.language}>
+        {/**
+         * To access the translation for the language selected
+         */}
         {appTranslationData.translationData.Menu['About_this_app?']}
       </Text>
       <Text h4 h4Style={styles.language}>
