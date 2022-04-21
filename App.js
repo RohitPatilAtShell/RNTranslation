@@ -48,9 +48,9 @@ const App = () => (
                     activeTintColor: 'tomato',
                     inactiveTintColor: 'gray',
                   }}>
+                  <Tab.Screen name="Home" component={Home} />
                  <Tab.Screen name="Main" component={Main} />
                  <Tab.Screen name="Login" component={Login} />
-                  <Tab.Screen name="Home" component={Home} />
                   <Tab.Screen name="Settings" component={Settings} />
                 </Tab.Navigator>
               </ThemeProvider>

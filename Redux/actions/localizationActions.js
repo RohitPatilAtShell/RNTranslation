@@ -3,6 +3,28 @@ import ActionDispatcher from '../reduxUtils/ActionDispatcher';
 import * as service from '../services/localizationService';
 const axios = require('axios');
 
+/* Global timestamp api action */
+export const getGlobalTimestamp = () => {
+  return ActionDispatcher(
+    service.getGlobalTimestampService,
+    ActionTypes.GLOBAL_TIMESTAMP_API_SUCCESS,
+    ActionTypes.GLOBAL_TIMESTAMP_API_FAILURE,
+    ActionTypes.GLOBAL_TIMESTAMP_API_PROGRESS,
+  );
+};
+export const clearGlobalTimestampApiData = () => ({
+  type: ActionTypes.CLEAR_GLOBAL_TIMESTAMP_API_DATA,
+});
+
+export const setTimeStamp = timestamp => ({
+  type: ActionTypes.SET_TIMESTAMP,
+  timestamp,
+});
+
+export const clearAllTranslationData = () => ({
+  type: ActionTypes.CLEAR_ALL_TRANSLATION_DATA,
+});
+
 /* Global json api action */
 export const getGlobalJson = () => {
   return ActionDispatcher(

@@ -2,6 +2,19 @@ import * as ActionTypes from '../actionConstants/localizationActionTypes';
 
 const DEFAULT_LANG_COUNTRY_CODE = 'UK';
 
+/**
+ * Store the last edited timestamp
+ */
+const GLOBAL_TIMESTAMP_DATA = {
+  isSuccess: false,
+  isError: false,
+  isLoading: false,
+  globalTimestamp: '',
+  error: '',
+  message: '',
+  errorData: undefined,
+};
+
 /*
  * globalPayload: Stores the complete response that we get from the global json api
  * globalCountries: Stored the list of countries  with the translation urls that we get from the global json api
@@ -47,7 +60,7 @@ const LOGIN_JSON_DATA = {
 
 /*
  * translationPayload: Stores the translations for the selected countries in the below form
-* [
+ * [
   {UnitedKingdom EN: {
     translationData: {},
     helpData: [],
@@ -67,6 +80,7 @@ const TRANSLATION_DATA = {
 };
 
 const INITIAL_STATE = {
+  globalTimestampdata: {...GLOBAL_TIMESTAMP_DATA},
   globalData: {...GLOBAL_JSON_DATA},
   countriesListData: {...COUNTRIES_JSON_DATA},
   loginLocaliseData: {...LOGIN_JSON_DATA},
@@ -75,6 +89,7 @@ const INITIAL_STATE = {
   selectedLangData: {},
   loginTranslationData: undefined,
   appTranslationData: undefined,
+  lastStoredTimestamp: '',
 };
 
 /* Converts into array of objects */
@@ -99,6 +114,44 @@ const getFormattedCountriesData = countryList => {
 
 export default (state = INITIAL_STATE, action = {}) => {
   switch (action.type) {
+    /* reducer for timestamp */
+    case ActionTypes.GLOBAL_TIMESTAMP_API_PROGRESS:
+      return {
+        ...state,
+        globalTimestampdata: {
+          ...state.globalTimestampdata,
+          isLoading: true,
+        },
+      };
+    case ActionTypes.GLOBAL_TIMESTAMP_API_SUCCESS:
+      return {
+        ...state,
+        globalTimestampdata: {
+          ...state.globalTimestampdata,
+          isLoading: false,
+          isSuccess: true,
+          isError: false,
+          globalTimestamp: action.payload.timestamp,
+        },
+      };
+    case ActionTypes.GLOBAL_TIMESTAMP_API_FAILURE:
+      return {
+        ...state,
+        globalTimestampdata: {
+          ...state.globalTimestampdata,
+          isLoading: false,
+          isSuccess: false,
+          isError: true,
+          error: action.error,
+          message: action.message,
+          errorData: action.data,
+        },
+      };
+    case ActionTypes.SET_TIMESTAMP:
+      return {
+        ...state,
+        lastStoredTimestamp: action.timestamp,
+      };
     /* reducer for countries list */
     case ActionTypes.COUNTRIES_LIST_API_PROGRESS:
       return {
@@ -313,6 +366,19 @@ export default (state = INITIAL_STATE, action = {}) => {
       return {
         ...state,
         loginTranslationData: action.payload,
+      };
+
+    case ActionTypes.CLEAR_ALL_TRANSLATION_DATA:
+      return {
+        ...state,
+        globalData: {...GLOBAL_JSON_DATA},
+        countriesListData: {...COUNTRIES_JSON_DATA},
+        loginLocaliseData: {...LOGIN_JSON_DATA},
+        translationData: {...TRANSLATION_DATA},
+        selectedCountryData: undefined,
+        selectedLangData: {},
+        loginTranslationData: undefined,
+        appTranslationData: undefined,
       };
     default:
       return state;

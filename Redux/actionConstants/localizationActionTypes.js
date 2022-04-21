@@ -1,3 +1,12 @@
+/* For global timestamp api */
+export const GLOBAL_TIMESTAMP_API_SUCCESS = 'GLOBAL_TIMESTAMP_API_SUCCESS';
+export const GLOBAL_TIMESTAMP_API_FAILURE = 'GLOBAL_TIMESTAMP_API_FAILURE';
+export const GLOBAL_TIMESTAMP_API_PROGRESS = 'GLOBAL_TIMESTAMP_API_PROGRESS';
+export const CLEAR_GLOBAL_TIMESTAMP_API_DATA =
+  'CLEAR_GLOBAL_TIMESTAMP_API_DATA';
+
+export const SET_TIMESTAMP = 'SET_TIMESTAMP';
+
 /* For global json api */
 export const GLOBAL_CONFIG_API_SUCCESS = 'GLOBAL_CONFIG_API_SUCCESS';
 export const GLOBAL_CONFIG_API_FAILURE = 'GLOBAL_CONFIG_API_FAILURE';
@@ -32,3 +41,6 @@ export const SET_APP_TRANSLATION_DATA = 'SET_APP_TRANSLATION_DATA';
 
 /* For storing the localization traslation instance for login data for selected country */
 export const SET_LOGIN_TRANSLATION_DATA = 'SET_LOGIN_TRANSLATION_DATA';
+
+/* For clearing all the json files */
+export const CLEAR_ALL_TRANSLATION_DATA = 'CLEAR_ALL_TRANSLATION_DATA';

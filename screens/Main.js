@@ -22,6 +22,10 @@ import {
   clearTranslationApiData,
   setAppTranslationData,
   setLoginTranslationData,
+  getGlobalTimestamp,
+  clearGlobalTimestampApiData,
+  clearAllTranslationData,
+  setTimeStamp,
 } from '../Redux/actions/localizationActions';
 import LocalizedStrings from 'react-native-localization';
 
@@ -39,14 +43,21 @@ export const Main = () => {
     translationData,
     translationData: {translationPayload},
     selectedLangData,
+    globalTimestampdata,
+    lastStoredTimestamp,
   } = localizationData;
+
+  useEffect(() => {
+    dispatch(getGlobalTimestamp());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   /**
    *  Check if the files are already downloaded, if so then directly navigate to Login screen
    *  otherwise call globalJson and countries list api
    */
   useEffect(() => {
-    if (
+    const translationDataExist =
       globalData.globalPayload &&
       globalData.globalPayload.countries &&
       globalData.globalPayload.countries.length &&
@@ -55,15 +66,34 @@ export const Main = () => {
       loginLocaliseData &&
       loginLocaliseData.loginJsonPayload &&
       translationPayload &&
-      translationPayload.length
-    ) {
-      console.log('data already exist');
-    } else {
-      dispatch(getGlobalJson());
-      dispatch(getCountriesListData());
+      translationPayload.length;
+
+    if (globalTimestampdata.isSuccess) {
+      dispatch(clearGlobalTimestampApiData());
+      if (
+        lastStoredTimestamp &&
+        lastStoredTimestamp === globalTimestampdata.globalTimestamp &&
+        translationDataExist
+      ) {
+        console.log('Data already exist'); // redirect to Login
+      } else {
+        dispatch(setTimeStamp(globalTimestampdata.globalTimestamp));
+        dispatch(clearAllTranslationData());
+        dispatch(getGlobalJson());
+        dispatch(getCountriesListData());
+      }
+    } else if (globalTimestampdata.isError) {
+      dispatch(clearGlobalTimestampApiData());
+      if (translationDataExist) {
+        console.log('data already exist'); // redirect to login
+      } else {
+        dispatch(clearAllTranslationData());
+        dispatch(getGlobalJson());
+        dispatch(getCountriesListData());
+      }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [globalTimestampdata]);
 
   /**
    *  If globalJson api success: then fetch the login json data as well as default country translation data
@@ -134,7 +164,7 @@ export const Main = () => {
     ) {
       Alert.alert(
         'Error',
-        'An error occured while trying yo load data, please try again later',
+        'An error occured while trying to load data, please try again later',
         {
           text: 'OK',
           onPress: () => {

@@ -1,5 +1,11 @@
 import * as Service from '../reduxUtils/LocalizeService';
 
+export function getGlobalTimestampService() {
+  const url =
+    'https://rohitpatilatshell.github.io/RNTranslation/lokalise/config/OpApp_GlobalConfig_Timestamp.json';
+  return Service.request(url, 'GET', {});
+}
+
 export function getGlobalJsonService() {
   const url =
     'https://rohitpatilatshell.github.io/RNTranslation/lokalise/config/OpApp_GlobalConfig.json';
