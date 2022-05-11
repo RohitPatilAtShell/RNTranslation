@@ -1,0 +1,3886 @@
+{
+    "AutomaticTokenRenewalTimeout": "10",
+    "JanrainAutomaticTokenRenewalTimeout": "60",
+    "PingIDAutomaticTokenRenewalTimeout": "4",
+    "offline_no_days": "30",
+    "GoogleAnalyticsAccounts": { "iOS": "", "android": "" },
+    "BugsenseAccounts": { "iOS": "", "android": "" },
+    "FPS_URL": { "iOS": "", "android": "" },
+    "GEOME_URL": { "iOS": "", "android": "" },
+    "VMIFE_URL": { "iOS": "", "android": "" },
+    "ShareLinks": {
+      "iOS": "https://itunes.apple.com/app/shell-retail-site-manager/id576095586?",
+      "android": "https://play.google.com/store/apps/details?id=com.shell.sitibv.retailsitemanager"
+    },
+    "HSSE": { "hsse_homepage_days": "90", "hsse_comp_days": "2" },
+    "Login": "opsapp/OpApp1.1/configs/OpApp_Login.json",
+    "countries": [
+      {
+        "code": "NL",
+        "name": "Netherlands",
+        "Languages": [
+          {
+            "code": "NL",
+            "localeWithHyphen": "nl-NL",
+            "localeWithUnderscore": "nl_NL",
+            "name": "Dutch",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/translation_Netherlands_NL.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/GSD/gsd_Netherlands_NL.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/CF/cf_Netherlands_NL.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/abt_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/con_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/faq_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/pp_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/sit_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/ts_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/tc_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/web_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/glossary_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/iOS/sra_Netherlands_NL.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/translation_Netherlands_NL.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/GSD/gsd_Netherlands_NL.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Netherlands/NL/CF/cf_Netherlands_NL.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/abt_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/con_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/faq_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/pp_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/sit_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/ts_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/tc_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/web_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/glossary_Netherlands_NL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Netherlands/NL/Help/android/sra_Netherlands_NL.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "BE",
+        "name": "Belgium",
+        "Languages": [
+          {
+            "code": "DU",
+            "name": "Dutch",
+            "localeWithHyphen": "nl-BE",
+            "localeWithUnderscore": "nl_BE",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/translation_Belgium_DU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/GSD/gsd_Belgium_DU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/CF/cf_Belgium_DU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/abt_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/con_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/faq_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/pp_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/sit_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/ts_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/tc_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/web_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/glossary_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/iOS/sra_Belgium_DU.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/translation_Belgium_DU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/GSD/gsd_Belgium_DU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/DU/CF/cf_Belgium_DU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/abt_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/con_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/faq_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/pp_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/sit_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/ts_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/tc_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/web_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/glossary_Belgium_DU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/DU/Help/android/sra_Belgium_DU.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "FR",
+            "name": "French",
+            "localeWithHyphen": "fr-BE",
+            "localeWithUnderscore": "fr_BE",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/translation_Belgium_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/GSD/gsd_Belgium_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/CF/cf_Belgium_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/abt_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/con_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/faq_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/pp_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/sit_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/ts_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/tc_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/web_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/glossary_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/iOS/sra_Belgium_FR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/translation_Belgium_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/GSD/gsd_Belgium_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Belgium/FR/CF/cf_Belgium_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/abt_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/con_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/faq_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/pp_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/sit_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/ts_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/tc_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/web_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/glossary_Belgium_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Belgium/FR/Help/android/sra_Belgium_FR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "UK",
+        "name": "UnitedKingdom",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-GB",
+            "localeWithUnderscore": "en_GB",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/iOS/sra_UnitedKingdom_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/translation_UnitedKingdom_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/GSD/gsd_UnitedKingdom_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/CF/cf_UnitedKingdom_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/abt_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/con_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/faq_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/pp_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/sit_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/ts_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/tc_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/web_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/glossary_UnitedKingdom_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedKingdom/EN/Help/android/sra_UnitedKingdom_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "USA",
+        "name": "UnitedStatesOfAmerica",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-US",
+            "localeWithUnderscore": "en_US",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/translation_UnitedStatesOfAmerica_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/GSD/gsd_UnitedStatesOfAmerica_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/CF/cf_UnitedStatesOfAmerica_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/abt_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/con_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/faq_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/pp_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/sit_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/ts_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/tc_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/web_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/glossary_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/iOS/sra_UnitedStatesOfAmerica_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/translation_UnitedStatesOfAmerica_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/GSD/gsd_UnitedStatesOfAmerica_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/CF/cf_UnitedStatesOfAmerica_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/abt_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/con_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/faq_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/pp_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/sit_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/ts_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/tc_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/web_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/glossary_UnitedStatesOfAmerica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/UnitedStatesOfAmerica/EN/Help/android/sra_UnitedStatesOfAmerica_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "NOR",
+        "name": "Norway",
+        "Languages": [
+          {
+            "code": "NOR",
+            "name": "Norwegian",
+            "localeWithHyphen": "nb-NO",
+            "localeWithUnderscore": "nb_NO",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/translation_Norway_NOR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/GSD/gsd_Norway_NOR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/CF/cf_Norway_NOR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/abt_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/con_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/faq_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/pp_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/sit_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/ts_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/tc_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/web_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/glossary_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/iOS/sra_Norway_NOR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/translation_Norway_NOR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/GSD/gsd_Norway_NOR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Norway/NOR/CF/cf_Norway_NOR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/abt_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/con_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/faq_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/pp_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/sit_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/ts_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/tc_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/web_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/glossary_Norway_NOR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Norway/NOR/Help/android/sra_Norway_NOR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "DK",
+        "name": "Denmark",
+        "Languages": [
+          {
+            "code": "DK",
+            "name": "Danish",
+            "localeWithHyphen": "da-DK",
+            "localeWithUnderscore": "da_DK",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/translation_Denmark_DK.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/GSD/gsd_Denmark_DK.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/CF/cf_Denmark_DK.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/abt_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/con_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/faq_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/pp_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/sit_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/ts_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/tc_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/web_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/glossary_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/iOS/sra_Denmark_DK.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/translation_Denmark_DK.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/GSD/gsd_Denmark_DK.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Denmark/DK/CF/cf_Denmark_DK.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/abt_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/con_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/faq_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/pp_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/sit_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/ts_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/tc_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/web_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/glossary_Denmark_DK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Denmark/DK/Help/android/sra_Denmark_DK.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CA",
+        "name": "Canada",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-CA",
+            "localeWithUnderscore": "en_CA",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/translation_Canada_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/GSD/gsd_Canada_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/CF/cf_Canada_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/abt_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/con_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/faq_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/pp_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/sit_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/ts_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/tc_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/web_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/glossary_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/iOS/sra_Canada_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/translation_Canada_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/GSD/gsd_Canada_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Canada/EN/CF/cf_Canada_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/abt_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/con_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/faq_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/pp_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/sit_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/ts_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/tc_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/web_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/glossary_Canada_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/EN/Help/android/sra_Canada_EN.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "FR",
+            "name": "French",
+            "localeWithHyphen": "fr-CA",
+            "localeWithUnderscore": "fr_CA",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/translation_Canada_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/GSD/gsd_Canada_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/CF/cf_Canada_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/abt_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/con_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/faq_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/pp_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/sit_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/ts_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/tc_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/web_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/glossary_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/iOS/sra_Canada_FR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/translation_Canada_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/GSD/gsd_Canada_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Canada/FR/CF/cf_Canada_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/abt_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/con_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/faq_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/pp_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/sit_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/ts_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/tc_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/web_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/glossary_Canada_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Canada/FR/Help/android/sra_Canada_FR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "FR",
+        "name": "France",
+        "Languages": [
+          {
+            "code": "FR",
+            "name": "French",
+            "localeWithHyphen": "fr-FR",
+            "localeWithUnderscore": "fr_FR",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/translation_France_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/GSD/gsd_France_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/CF/cf_France_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/abt_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/con_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/faq_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/pp_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/sit_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/ts_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/tc_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/web_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/glossary_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/iOS/sra_France_FR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/translation_France_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/GSD/gsd_France_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/France/FR/CF/cf_France_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/abt_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/con_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/faq_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/pp_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/sit_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/ts_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/tc_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/web_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/glossary_France_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/France/FR/Help/android/sra_France_FR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "LU",
+        "name": "Luxembourg",
+        "Languages": [
+          {
+            "code": "FR",
+            "name": "French",
+            "localeWithHyphen": "fr-LU",
+            "localeWithUnderscore": "fr_LU",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/translation_Luxembourg_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/GSD/gsd_Luxembourg_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/CF/cf_Luxembourg_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/abt_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/con_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/faq_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/pp_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/sit_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/ts_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/tc_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/web_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/glossary_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/iOS/sra_Luxembourg_FR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/translation_Luxembourg_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/GSD/gsd_Luxembourg_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/CF/cf_Luxembourg_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/abt_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/con_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/faq_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/pp_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/sit_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/ts_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/tc_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/web_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/glossary_Luxembourg_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Luxembourg/FR/Help/android/sra_Luxembourg_FR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PH",
+        "name": "Philippines",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-PH",
+            "localeWithUnderscore": "en_PH",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/translation_Philippines_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/GSD/gsd_Philippines_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/CF/cf_Philippines_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/abt_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/con_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/faq_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/pp_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/sit_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/ts_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/tc_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/web_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/glossary_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/iOS/sra_Philippines_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/translation_Philippines_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/GSD/gsd_Philippines_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Philippines/EN/CF/cf_Philippines_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/abt_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/con_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/faq_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/pp_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/sit_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/ts_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/tc_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/web_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/glossary_Philippines_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Philippines/EN/Help/android/sra_Philippines_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "DE",
+        "name": "Germany",
+        "Languages": [
+          {
+            "code": "DE",
+            "name": "German",
+            "localeWithHyphen": "de-DE",
+            "localeWithUnderscore": "de_DE",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/translation_Germany_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/GSD/gsd_Germany_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/CF/cf_Germany_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/abt_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/con_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/faq_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/pp_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/sit_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/ts_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/tc_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/web_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/glossary_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/iOS/sra_Germany_DE.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/translation_Germany_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/GSD/gsd_Germany_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Germany/DE/CF/cf_Germany_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/abt_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/con_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/faq_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/pp_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/sit_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/ts_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/tc_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/web_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/glossary_Germany_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Germany/DE/Help/android/sra_Germany_DE.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "ZA",
+        "name": "SouthAfrica",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-ZA",
+            "localeWithUnderscore": "en_ZA",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/translation_SouthAfrica_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/GSD/gsd_SouthAfrica_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/CF/cf_SouthAfrica_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/abt_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/con_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/faq_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/pp_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/sit_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/ts_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/tc_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/web_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/glossary_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/iOS/sra_SouthAfrica_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/translation_SouthAfrica_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/GSD/gsd_SouthAfrica_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/CF/cf_SouthAfrica_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/abt_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/con_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/faq_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/pp_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/sit_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/ts_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/tc_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/web_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/glossary_SouthAfrica_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/SouthAfrica/EN/Help/android/sra_SouthAfrica_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "TH",
+        "name": "Thailand",
+        "Languages": [
+          {
+            "code": "TH",
+            "name": "Thai",
+            "localeWithHyphen": "th-TH",
+            "localeWithUnderscore": "th_TH",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/translation_Thailand_TH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/GSD/gsd_Thailand_TH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/CF/cf_Thailand_TH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/abt_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/con_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/faq_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/pp_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/sit_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/ts_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/tc_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/web_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/glossary_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/iOS/sra_Thailand_TH.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/translation_Thailand_TH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/GSD/gsd_Thailand_TH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/TH/CF/cf_Thailand_TH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/abt_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/con_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/faq_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/pp_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/sit_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/ts_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/tc_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/web_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/glossary_Thailand_TH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/TH/Help/android/sra_Thailand_TH.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-TH",
+            "localeWithUnderscore": "en_TH",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/translation_Thailand_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/GSD/gsd_Thailand_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/CF/cf_Thailand_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/abt_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/con_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/faq_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/pp_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/sit_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/ts_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/tc_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/web_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/glossary_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/iOS/sra_Thailand_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/translation_Thailand_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/GSD/gsd_Thailand_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Thailand/EN/CF/cf_Thailand_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/abt_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/con_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/faq_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/pp_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/sit_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/ts_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/tc_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/web_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/glossary_Thailand_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Thailand/EN/Help/android/sra_Thailand_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "AT",
+        "name": "Austria",
+        "Languages": [
+          {
+            "code": "DE",
+            "name": "German",
+            "localeWithHyphen": "de-AT",
+            "localeWithUnderscore": "de_AT",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/translation_Austria_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/GSD/gsd_Austria_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/CF/cf_Austria_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/abt_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/con_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/faq_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/pp_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/sit_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/ts_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/tc_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/web_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/glossary_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/iOS/sra_Austria_DE.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/translation_Austria_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/GSD/gsd_Austria_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Austria/DE/CF/cf_Austria_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/abt_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/con_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/faq_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/pp_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/sit_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/ts_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/tc_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/web_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/glossary_Austria_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Austria/DE/Help/android/sra_Austria_DE.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CH",
+        "name": "Switzerland",
+        "Languages": [
+          {
+            "code": "DE",
+            "name": "German",
+            "localeWithHyphen": "de-CH",
+            "localeWithUnderscore": "de_CH",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/translation_Switzerland_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/GSD/gsd_Switzerland_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/CF/cf_Switzerland_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/abt_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/con_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/faq_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/pp_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/sit_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/ts_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/tc_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/web_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/glossary_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/iOS/sra_Switzerland_DE.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/translation_Switzerland_DE.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/GSD/gsd_Switzerland_DE.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/DE/CF/cf_Switzerland_DE.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/abt_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/con_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/faq_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/pp_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/sit_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/ts_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/tc_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/web_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/glossary_Switzerland_DE.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/DE/Help/android/sra_Switzerland_DE.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "FR",
+            "name": "French",
+            "localeWithHyphen": "fr-CH",
+            "localeWithUnderscore": "fr_CH",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/translation_Switzerland_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/GSD/gsd_Switzerland_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/CF/cf_Switzerland_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/abt_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/con_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/faq_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/pp_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/sit_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/ts_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/tc_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/web_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/glossary_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/iOS/sra_Switzerland_FR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/translation_Switzerland_FR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/GSD/gsd_Switzerland_FR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Switzerland/FR/CF/cf_Switzerland_FR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/abt_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/con_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/faq_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/pp_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/sit_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/ts_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/tc_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/web_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/glossary_Switzerland_FR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Switzerland/FR/Help/android/sra_Switzerland_FR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "AR",
+        "name": "Argentina",
+        "Languages": [
+          {
+            "code": "ES",
+            "name": "Español",
+            "localeWithHyphen": "es-AR",
+            "localeWithUnderscore": "es_AR",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/translation_Argentina_ES.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/GSD/gsd_Argentina_ES.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/CF/cf_Argentina_ES.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/abt_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/con_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/faq_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/pp_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/sit_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/ts_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/tc_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/web_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/glossary_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/iOS/sra_Argentina_ES.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/translation_Argentina_ES.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/GSD/gsd_Argentina_ES.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Argentina/ES/CF/cf_Argentina_ES.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/abt_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/con_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/faq_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/pp_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/sit_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/ts_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/tc_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/web_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/glossary_Argentina_ES.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Argentina/ES/Help/android/sra_Argentina_ES.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "TR",
+        "name": "Turkey",
+        "Languages": [
+          {
+            "code": "TR",
+            "name": "Turkish",
+            "localeWithHyphen": "tr-TR",
+            "localeWithUnderscore": "tr_TR",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/translation_Turkey_TR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/GSD/gsd_Turkey_TR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/CF/cf_Turkey_TR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/abt_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/con_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/faq_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/pp_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/sit_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/ts_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/tc_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/web_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/glossary_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/iOS/sra_Turkey_TR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/translation_Turkey_TR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/GSD/gsd_Turkey_TR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Turkey/TR/CF/cf_Turkey_TR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/abt_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/con_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/faq_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/pp_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/sit_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/ts_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/tc_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/web_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/glossary_Turkey_TR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Turkey/TR/Help/android/sra_Turkey_TR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "MY",
+        "name": "Malaysia",
+        "Languages": [
+          {
+            "code": "MS",
+            "name": "Malay",
+            "localeWithHyphen": "ms-MY",
+            "localeWithUnderscore": "ms_MY",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/translation_Malaysia_MS.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/GSD/gsd_Malaysia_MS.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/CF/cf_Malaysia_MS.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/abt_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/con_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/faq_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/pp_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/sit_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/ts_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/tc_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/web_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/glossary_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/iOS/sra_Malaysia_MS.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/translation_Malaysia_MS.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/GSD/gsd_Malaysia_MS.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/MS/CF/cf_Malaysia_MS.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/abt_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/con_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/faq_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/pp_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/sit_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/ts_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/tc_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/web_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/glossary_Malaysia_MS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/MS/Help/android/sra_Malaysia_MS.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-MY",
+            "localeWithUnderscore": "en_MY",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/translation_Malaysia_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/GSD/gsd_Malaysia_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/CF/cf_Malaysia_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/abt_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/con_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/faq_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/pp_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/sit_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/ts_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/tc_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/web_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/glossary_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/iOS/sra_Malaysia_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/translation_Malaysia_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/GSD/gsd_Malaysia_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Malaysia/EN/CF/cf_Malaysia_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/abt_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/con_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/faq_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/pp_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/sit_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/ts_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/tc_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/web_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/glossary_Malaysia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Malaysia/EN/Help/android/sra_Malaysia_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan",
+        "Languages": [
+          {
+            "code": "UR",
+            "name": "Urdu",
+            "localeWithHyphen": "ur-PK",
+            "localeWithUnderscore": "ur_PK",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/translation_Pakistan_UR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/GSD/gsd_Pakistan_UR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/CF/cf_Pakistan_UR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/abt_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/con_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/faq_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/pp_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/sit_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/ts_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/tc_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/web_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/glossary_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/iOS/sra_Pakistan_UR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/translation_Pakistan_UR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/GSD/gsd_Pakistan_UR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Pakistan/UR/CF/cf_Pakistan_UR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/abt_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/con_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/faq_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/pp_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/sit_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/ts_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/tc_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/web_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/glossary_Pakistan_UR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Pakistan/UR/Help/android/sra_Pakistan_UR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "ID",
+        "name": "Indonesia",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-ID",
+            "localeWithUnderscore": "en_ID",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/translation_Indonesia_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/GSD/gsd_Indonesia_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/CF/cf_Indonesia_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/abt_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/con_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/faq_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/pp_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/sit_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/ts_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/tc_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/web_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/glossary_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/iOS/sra_Indonesia_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/translation_Indonesia_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/GSD/gsd_Indonesia_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/EN/CF/cf_Indonesia_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/abt_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/con_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/faq_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/pp_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/sit_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/ts_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/tc_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/web_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/glossary_Indonesia_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/EN/Help/android/sra_Indonesia_EN.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "IN",
+            "name": "Indonesian",
+            "localeWithHyphen": "id-ID",
+            "localeWithUnderscore": "id_ID",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/translation_Indonesia_IN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/GSD/gsd_Indonesia_IN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/CF/cf_Indonesia_IN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/abt_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/con_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/faq_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/pp_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/sit_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/ts_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/tc_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/web_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/glossary_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/iOS/sra_Indonesia_IN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/translation_Indonesia_IN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/GSD/gsd_Indonesia_IN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Indonesia/IN/CF/cf_Indonesia_IN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/abt_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/con_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/faq_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/pp_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/sit_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/ts_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/tc_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/web_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/glossary_Indonesia_IN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Indonesia/IN/Help/android/sra_Indonesia_IN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "HK",
+        "name": "HongKong",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-HK",
+            "localeWithUnderscore": "en_HK",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/translation_HongKong_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/GSD/gsd_HongKong_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/CF/cf_HongKong_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/abt_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/con_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/faq_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/pp_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/sit_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/ts_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/tc_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/web_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/glossary_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/iOS/sra_HongKong_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/translation_HongKong_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/GSD/gsd_HongKong_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/EN/CF/cf_HongKong_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/abt_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/con_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/faq_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/pp_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/sit_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/ts_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/tc_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/web_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/glossary_HongKong_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/EN/Help/android/sra_HongKong_EN.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "ZH",
+            "name": "Chinese",
+            "localeWithHyphen": "zh-HK",
+            "localeWithUnderscore": "zh_HK",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/translation_HongKong_ZH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/GSD/gsd_HongKong_ZH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/CF/cf_HongKong_ZH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/abt_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/con_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/faq_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/pp_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/sit_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/ts_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/tc_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/web_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/glossary_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/iOS/sra_HongKong_ZH.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/translation_HongKong_ZH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/GSD/gsd_HongKong_ZH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/HongKong/ZH/CF/cf_HongKong_ZH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/abt_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/con_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/faq_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/pp_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/sit_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/ts_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/tc_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/web_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/glossary_HongKong_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/HongKong/ZH/Help/android/sra_HongKong_ZH.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "MO",
+        "name": "Macau",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-MO",
+            "localeWithUnderscore": "en_MO",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/translation_Macau_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/GSD/gsd_Macau_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/CF/cf_Macau_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/abt_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/con_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/faq_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/pp_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/sit_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/ts_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/tc_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/web_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/glossary_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/iOS/sra_Macau_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/translation_Macau_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/GSD/gsd_Macau_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Macau/EN/CF/cf_Macau_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/abt_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/con_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/faq_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/pp_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/sit_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/ts_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/tc_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/web_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/glossary_Macau_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/EN/Help/android/sra_Macau_EN.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "ZH",
+            "name": "Chinese",
+            "localeWithHyphen": "zh-MO",
+            "localeWithUnderscore": "zh_MO",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/translation_Macau_ZH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/GSD/gsd_Macau_ZH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/CF/cf_Macau_ZH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/abt_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/con_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/faq_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/pp_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/sit_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/ts_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/tc_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/web_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/glossary_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/iOS/sra_Macau_ZH.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/translation_Macau_ZH.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/GSD/gsd_Macau_ZH.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Macau/ZH/CF/cf_Macau_ZH.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/abt_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/con_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/faq_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/pp_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/sit_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/ts_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/tc_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/web_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/glossary_Macau_ZH.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Macau/ZH/Help/android/sra_Macau_ZH.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "IN",
+        "name": "India",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-IN",
+            "localeWithUnderscore": "en_IN",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/translation_India_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/GSD/gsd_India_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/CF/cf_India_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/abt_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/con_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/faq_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/pp_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/sit_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/ts_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/tc_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/web_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/glossary_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/iOS/sra_India_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/translation_India_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/GSD/gsd_India_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/India/EN/CF/cf_India_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/abt_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/con_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/faq_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/pp_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/sit_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/ts_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/tc_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/web_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/glossary_India_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/India/EN/Help/android/sra_India_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "OM",
+        "name": "Oman",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-OM",
+            "localeWithUnderscore": "en_OM",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/translation_Oman_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/GSD/gsd_Oman_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/CF/cf_Oman_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/abt_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/con_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/faq_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/pp_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/sit_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/ts_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/tc_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/web_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/glossary_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/iOS/sra_Oman_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/translation_Oman_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/GSD/gsd_Oman_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Oman/EN/CF/cf_Oman_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/abt_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/con_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/faq_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/pp_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/sit_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/ts_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/tc_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/web_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/glossary_Oman_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/EN/Help/android/sra_Oman_EN.json"
+                }
+              ]
+            }
+          },
+          {
+            "code": "AR",
+            "name": "Arabic",
+            "localeWithHyphen": "ar-OM",
+            "localeWithUnderscore": "ar_OM",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/translation_Oman_AR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/GSD/gsd_Oman_AR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/CF/cf_Oman_AR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/abt_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/con_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/faq_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/pp_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/sit_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/ts_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/tc_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/web_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/glossary_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/iOS/sra_Oman_AR.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/translation_Oman_AR.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/GSD/gsd_Oman_AR.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Oman/AR/CF/cf_Oman_AR.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/abt_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/con_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/faq_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/pp_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/sit_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/ts_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/tc_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/web_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/glossary_Oman_AR.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Oman/AR/Help/android/sra_Oman_AR.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "BG",
+        "name": "Bulgaria",
+        "Languages": [
+          {
+            "code": "BG",
+            "name": "Bulgarian",
+            "localeWithHyphen": "bg-BG",
+            "localeWithUnderscore": "bg_BG",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/translation_Bulgaria_BG.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/GSD/gsd_Bulgaria_BG.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/CF/cf_Bulgaria_BG.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/abt_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/con_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/faq_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/pp_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/sit_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/ts_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/tc_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/web_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/glossary_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/iOS/sra_Bulgaria_BG.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/translation_Bulgaria_BG.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/GSD/gsd_Bulgaria_BG.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/CF/cf_Bulgaria_BG.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/abt_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/con_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/faq_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/pp_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/sit_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/ts_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/tc_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/web_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/glossary_Bulgaria_BG.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Bulgaria/BG/Help/android/sra_Bulgaria_BG.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CZ",
+        "name": "CzechRepublic",
+        "Languages": [
+          {
+            "code": "CS",
+            "name": "Czech",
+            "localeWithHyphen": "cs-CZ",
+            "localeWithUnderscore": "cs_CZ",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/translation_CzechRepublic_CS.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/GSD/gsd_CzechRepublic_CS.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/CF/cf_CzechRepublic_CS.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/abt_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/con_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/faq_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/pp_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/sit_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/ts_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/tc_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/web_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/glossary_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/iOS/sra_CzechRepublic_CS.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/translation_CzechRepublic_CS.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/GSD/gsd_CzechRepublic_CS.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/CF/cf_CzechRepublic_CS.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/abt_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/con_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/faq_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/pp_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/sit_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/ts_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/tc_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/web_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/glossary_CzechRepublic_CS.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/CzechRepublic/CS/Help/android/sra_CzechRepublic_CS.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "HU",
+        "name": "Hungary",
+        "Languages": [
+          {
+            "code": "HU",
+            "name": "Hungarian",
+            "localeWithHyphen": "hu-HU",
+            "localeWithUnderscore": "hu_HU",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/translation_Hungary_HU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/GSD/gsd_Hungary_HU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/CF/cf_Hungary_HU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/abt_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/con_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/faq_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/pp_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/sit_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/ts_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/tc_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/web_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/glossary_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/iOS/sra_Hungary_HU.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/translation_Hungary_HU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/GSD/gsd_Hungary_HU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Hungary/HU/CF/cf_Hungary_HU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/abt_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/con_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/faq_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/pp_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/sit_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/ts_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/tc_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/web_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/glossary_Hungary_HU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Hungary/HU/Help/android/sra_Hungary_HU.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PL",
+        "name": "Poland",
+        "Languages": [
+          {
+            "code": "PL",
+            "name": "Polish",
+            "localeWithHyphen": "pl-PL",
+            "localeWithUnderscore": "pl_PL",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/translation_Poland_PL.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/GSD/gsd_Poland_PL.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/CF/cf_Poland_PL.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/abt_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/con_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/faq_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/pp_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/sit_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/ts_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/tc_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/web_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/glossary_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/iOS/sra_Poland_PL.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/translation_Poland_PL.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/GSD/gsd_Poland_PL.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Poland/PL/CF/cf_Poland_PL.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/abt_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/con_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/faq_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/pp_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/sit_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/ts_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/tc_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/web_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/glossary_Poland_PL.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Poland/PL/Help/android/sra_Poland_PL.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "RU",
+        "name": "Russia",
+        "Languages": [
+          {
+            "code": "RU",
+            "name": "Russian",
+            "localeWithHyphen": "ru-RU",
+            "localeWithUnderscore": "ru_RU",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/translation_Russia_RU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/GSD/gsd_Russia_RU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/CF/cf_Russia_RU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/abt_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/con_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/faq_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/pp_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/sit_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/ts_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/tc_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/web_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/glossary_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/iOS/sra_Russia_RU.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/translation_Russia_RU.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/GSD/gsd_Russia_RU.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Russia/RU/CF/cf_Russia_RU.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/abt_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/con_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/faq_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/pp_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/sit_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/ts_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/tc_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/web_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/glossary_Russia_RU.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Russia/RU/Help/android/sra_Russia_RU.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "SK",
+        "name": "Slovakia",
+        "Languages": [
+          {
+            "code": "SK",
+            "name": "Slovak",
+            "localeWithHyphen": "sk-SK",
+            "localeWithUnderscore": "sk_SK",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/translation_Slovakia_SK.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/GSD/gsd_Slovakia_SK.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/CF/cf_Slovakia_SK.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/abt_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/con_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/faq_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/pp_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/sit_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/ts_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/tc_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/web_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/glossary_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/iOS/sra_Slovakia_SK.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/translation_Slovakia_SK.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/GSD/gsd_Slovakia_SK.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Slovakia/SK/CF/cf_Slovakia_SK.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/abt_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/con_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/faq_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/pp_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/sit_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/ts_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/tc_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/web_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/glossary_Slovakia_SK.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Slovakia/SK/Help/android/sra_Slovakia_SK.json"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "SG",
+        "name": "Singapore",
+        "Languages": [
+          {
+            "code": "EN",
+            "name": "English",
+            "localeWithHyphen": "en-SG",
+            "localeWithUnderscore": "en_SG",
+            "iOS": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/translation_Singapore_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/GSD/gsd_Singapore_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/CF/cf_Singapore_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/abt_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/con_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/faq_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/pp_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/sit_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/ts_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/tc_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/web_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/glossary_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/iOS/sra_Singapore_EN.json"
+                }
+              ]
+            },
+            "android": {
+              "translation": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/translation_Singapore_EN.json"
+              },
+              "GSD": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/GSD/gsd_Singapore_EN.json"
+              },
+              "CF": {
+                "src": "opsapp/OpApp1.1/strings/Singapore/EN/CF/cf_Singapore_EN.json"
+              },
+              "Help": [
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/abt_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/con_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/faq_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/pp_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/sit_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/ts_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/tc_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/web_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/glossary_Singapore_EN.json"
+                },
+                {
+                  "src": "opsapp/OpApp1.1/strings/Singapore/EN/Help/android/sra_Singapore_EN.json"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
